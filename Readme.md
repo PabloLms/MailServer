@@ -1,4 +1,4 @@
-#Mail Server 
+# Mail Server 
 Para la creacion de un servidor de correos(mail server), se  utilizara docker y digital ocean.
 1. Primero crearemos un droplet en digital ocean de     distribucion ubuntu por ejemplo Ubuntu 20.04 y configurarlo como la cantidad de ram y agregar el ssh,etc. Se da por concluido la creacion del droplet.
 2. Ingresamos al servidor que podria ser por la consola que nos brinda digital ocean o putty o en mi caso el git bash.Para el caso del git bash escribiremos el siguiente comando "ssh root@0.0.0.0"  el 0.0.0.0 es la ip del servidor.
